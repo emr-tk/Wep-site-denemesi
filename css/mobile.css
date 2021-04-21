@@ -1,0 +1,46 @@
+.header-1{
+    padding-bottom: 10px;
+    }
+.navbar{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.75rem;
+    overflow: hidden;
+    height: 100px;
+}
+.navbar li{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding-top: 5px;
+    text-align: center;
+
+}
+#home .name a{    
+    /*font-size: 0.75rem; */  
+    width: 85%;
+}
+#home .name h2{
+    font-size: 2rem;
+    font-style: bold;
+}
+#home .name img{
+    width: 60%;
+}
+.kurslar .items{
+    display: flex;
+    flex-direction: column;
+    width:auto;
+}
+.kurslar .items .item{
+    width: 100%;
+}
+.homes{
+    
+    display: flex;
+    flex-direction: column;
+    padding-top:5rem;
+}
+
