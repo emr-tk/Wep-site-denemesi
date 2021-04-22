@@ -243,3 +243,9 @@ font-size: 2.5rem;}
     font-size: 2.5rem;
     margin-bottom: 2rem;
 }
+.Footer a{
+    color: white;
+}
+.Footer a:hover{
+    color: gray;
+}
